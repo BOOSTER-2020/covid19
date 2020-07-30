@@ -43,18 +43,5 @@ g.	State-wise % of deaths as compared to cumulative cases
 6.	Model Performance:
 Model is evaluated on Mean Absolute Percentage Error (MAPE).
 
-Weighted Average for each model (for each state):
-	
-
-		Where Ei is the MAPE of each model, corresponding to a state	
-
-        Model Prediction for each day for each state:
-	
-	
-		Where Wi is the weight of each model and Pi is the Prediction of each model corresponding to a state
-		for the day	
-
-
-
 
 
