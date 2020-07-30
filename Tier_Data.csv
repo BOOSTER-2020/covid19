@@ -1,0 +1,733 @@
+State,State_Code,District,Tier
+Andaman and Nicobar Islands,AN,Unknown, Tier-3 
+Andhra Pradesh,AP,Anantapur, Tier-3 
+Andhra Pradesh,AP,Chittoor, Tier-3 
+Andhra Pradesh,AP,East Godavari, Tier-2 
+Andhra Pradesh,AP,Guntur, Tier-2 
+Andhra Pradesh,AP,Krishna, Tier-2 
+Andhra Pradesh,AP,Kurnool, Tier-2 
+Andhra Pradesh,AP,Prakasam, Tier-3 
+Andhra Pradesh,AP,S.P.S. Nellore, Tier-2 
+Andhra Pradesh,AP,Srikakulam, Tier-3 
+Andhra Pradesh,AP,Visakhapatnam, Tier-2 
+Andhra Pradesh,AP,West Godavari, Tier-3 
+Andhra Pradesh,AP,Y.S.R. Kadapa, Tier-3 
+Arunachal Pradesh,AR,Lohit, Tier-3 
+Assam,AS,Cachar, Tier-3 
+Assam,AS,Dhubri, Tier-3 
+Assam,AS,Goalpara, Tier-3 
+Assam,AS,Golaghat, Tier-3 
+Assam,AS,Hailakandi, Tier-3 
+Assam,AS,Kamrup, Tier-3 
+Assam,AS,Kamrup Metropolitan, Tier-2 
+Assam,AS,Karimganj, Tier-3 
+Assam,AS,Lakhimpur, Tier-3 
+Assam,AS,Morigaon, Tier-3 
+Assam,AS,Nalbari, Tier-3 
+Assam,AS,Other State, Tier-3 
+Assam,AS,South Salmara Mankachar, Tier-3 
+Bihar,BR,Arwal, Tier-3 
+Bihar,BR,Aurangabad, Tier-2 
+Bihar,BR,Banka, Tier-3 
+Bihar,BR,Begusarai, Tier-3 
+Bihar,BR,Bhagalpur, Tier-3 
+Bihar,BR,Bhojpur, Tier-3 
+Bihar,BR,Buxar, Tier-3 
+Bihar,BR,East Champaran, Tier-3 
+Bihar,BR,Gaya, Tier-3 
+Bihar,BR,Gopalganj, Tier-3 
+Bihar,BR,Jehanabad, Tier-3 
+Bihar,BR,Kaimur, Tier-3 
+Bihar,BR,Lakhisarai, Tier-3 
+Bihar,BR,Madhepura, Tier-3 
+Bihar,BR,Munger, Tier-3 
+Bihar,BR,Nalanda, Tier-3 
+Bihar,BR,Nawada, Tier-3 
+Bihar,BR,Patna, Tier-2 
+Bihar,BR,Rohtas, Tier-3 
+Bihar,BR,Saran, Tier-3 
+Bihar,BR,Siwan, Tier-3 
+Bihar,BR,Vaishali, Tier-3 
+Chandigarh,CH,Chandigarh, Tier-2 
+Chhattisgarh,CT,Bilaspur, Tier-2 
+Chhattisgarh,CT,Durg, Tier-2 
+Chhattisgarh,CT,Korba, Tier-3 
+Chhattisgarh,CT,Raipur, Tier-2 
+Chhattisgarh,CT,Rajnandgaon, Tier-3 
+Delhi,DL,Delhi, Tier-1 
+Goa,GA,North Goa, Tier-2 
+Goa,GA,South Goa, Tier-2 
+Gujarat,GJ,Ahmedabad, Tier-1 
+Gujarat,GJ,Anand, Tier-3 
+Gujarat,GJ,Aravalli, Tier-3 
+Gujarat,GJ,Banaskantha, Tier-3 
+Gujarat,GJ,Bharuch, Tier-3 
+Gujarat,GJ,Bhavnagar, Tier-2 
+Gujarat,GJ,Botad, Tier-3 
+Gujarat,GJ,Chhota Udaipur, Tier-3 
+Gujarat,GJ,Dahod, Tier-3 
+Gujarat,GJ,Dang, Tier-3 
+Gujarat,GJ,Gandhinagar, Tier-3 
+Gujarat,GJ,Gir Somnath, Tier-3 
+Gujarat,GJ,Jamnagar, Tier-2 
+Gujarat,GJ,Kheda, Tier-3 
+Gujarat,GJ,Kutch, Tier-3 
+Gujarat,GJ,Mahisagar, Tier-3 
+Gujarat,GJ,Mehsana, Tier-3 
+Gujarat,GJ,Morbi, Tier-3 
+Gujarat,GJ,Narmada, Tier-3 
+Gujarat,GJ,Navsari, Tier-3 
+Gujarat,GJ,Panchmahal, Tier-3 
+Gujarat,GJ,Patan, Tier-3 
+Gujarat,GJ,Porbandar, Tier-3 
+Gujarat,GJ,Rajkot, Tier-2 
+Gujarat,GJ,Sabarkantha, Tier-3 
+Gujarat,GJ,Surat, Tier-2 
+Gujarat,GJ,Surendranagar, Tier-3 
+Gujarat,GJ,Tapi, Tier-3 
+Gujarat,GJ,Vadodara, Tier-2 
+Gujarat,GJ,Valsad, Tier-3 
+Himachal Pradesh,HP,Chamba, Tier-3 
+Himachal Pradesh,HP,Hamirpur, Tier-2 
+Himachal Pradesh,HP,Kangra, Tier-3 
+Himachal Pradesh,HP,Sirmaur, Tier-3 
+Himachal Pradesh,HP,Solan, Tier-3 
+Himachal Pradesh,HP,Una, Tier-3 
+Haryana,HR,Ambala, Tier-3 
+Haryana,HR,Bhiwani, Tier-3 
+Haryana,HR,Charkhi Dadri, Tier-3 
+Haryana,HR,Faridabad, Tier-2 
+Haryana,HR,Fatehabad, Tier-3 
+Haryana,HR,Gurugram, Tier-2 
+Haryana,HR,Hisar, Tier-3 
+Haryana,HR,Italians, Tier-3 
+Haryana,HR,Jind, Tier-3 
+Haryana,HR,Kaithal, Tier-3 
+Haryana,HR,Karnal, Tier-3 
+Haryana,HR,Kurukshetra, Tier-3 
+Haryana,HR,Nuh, Tier-3 
+Haryana,HR,Palwal, Tier-3 
+Haryana,HR,Panchkula, Tier-3 
+Haryana,HR,Panipat, Tier-3 
+Haryana,HR,Rohtak, Tier-3 
+Haryana,HR,Sirsa, Tier-3 
+Haryana,HR,Sonipat, Tier-3 
+Haryana,HR,Yamunanagar, Tier-3 
+Jharkhand,JH,Bokaro, Tier-2 
+Jharkhand,JH,Deoghar, Tier-3 
+Jharkhand,JH,Dhanbad, Tier-2 
+Jharkhand,JH,Garhwa, Tier-3 
+Jharkhand,JH,Giridih, Tier-3 
+Jharkhand,JH,Hazaribagh, Tier-3 
+Jharkhand,JH,Koderma, Tier-3 
+Jharkhand,JH,Palamu, Tier-3 
+Jharkhand,JH,Ranchi, Tier-2 
+Jharkhand,JH,Simdega, Tier-3 
+Jammu and Kashmir,JK,Anantnag, Tier-3 
+Jammu and Kashmir,JK,Bandipora, Tier-3 
+Jammu and Kashmir,JK,Baramulla, Tier-3 
+Jammu and Kashmir,JK,Budgam, Tier-3 
+Jammu and Kashmir,JK,Ganderbal, Tier-3 
+Jammu and Kashmir,JK,Jammu, Tier-2 
+Jammu and Kashmir,JK,Kathua, Tier-3 
+Jammu and Kashmir,JK,Kishtwar, Tier-3 
+Jammu and Kashmir,JK,Kulgam, Tier-3 
+Jammu and Kashmir,JK,Kupwara, Tier-3 
+Jammu and Kashmir,JK,Pulwama, Tier-3 
+Jammu and Kashmir,JK,Rajouri, Tier-3 
+Jammu and Kashmir,JK,Ramban, Tier-3 
+Jammu and Kashmir,JK,Samba, Tier-3 
+Jammu and Kashmir,JK,Shopiyan, Tier-3 
+Jammu and Kashmir,JK,Srinagar, Tier-2 
+Jammu and Kashmir,JK,Udhampur, Tier-3 
+Karnataka,KA,Bagalkote, Tier-3 
+Karnataka,KA,Ballari, Tier-3 
+Karnataka,KA,Belagavi, Tier-2 
+Karnataka,KA,Bengaluru Rural, Tier-3 
+Karnataka,KA,Bengaluru Urban, Tier-1 
+Karnataka,KA,Bidar, Tier-3 
+Karnataka,KA,Chikkaballapura, Tier-3 
+Karnataka,KA,Chitradurga, Tier-3 
+Karnataka,KA,Dakshina Kannada, Tier-2 
+Karnataka,KA,Davanagere, Tier-3 
+Karnataka,KA,Dharwad, Tier-2 
+Karnataka,KA,Gadag, Tier-3 
+Karnataka,KA,Kalaburagi, Tier-2 
+Karnataka,KA,Kodagu, Tier-3 
+Karnataka,KA,Mandya, Tier-3 
+Karnataka,KA,Mysuru, Tier-2 
+Karnataka,KA,Other State, Tier-3 
+Karnataka,KA,Tumakuru, Tier-3 
+Karnataka,KA,Udupi, Tier-3 
+Karnataka,KA,Uttara Kannada, Tier-3 
+Karnataka,KA,Vijayapura, Tier-3 
+Kerala,KL,Alappuzha, Tier-3 
+Kerala,KL,Ernakulam, Tier-2 
+Kerala,KL,Idukki, Tier-3 
+Kerala,KL,Kannur, Tier-2 
+Kerala,KL,Kasaragod, Tier-3 
+Kerala,KL,Kollam, Tier-2 
+Kerala,KL,Kottayam, Tier-3 
+Kerala,KL,Kozhikode, Tier-2 
+Kerala,KL,Malappuram, Tier-2 
+Kerala,KL,Palakkad, Tier-3 
+Kerala,KL,Pathanamthitta, Tier-3 
+Kerala,KL,Thiruvananthapuram, Tier-2 
+Kerala,KL,Thrissur, Tier-2 
+Kerala,KL,Wayanad, Tier-3 
+Ladakh,LA,Kargil, Tier-3 
+Ladakh,LA,Leh, Tier-3 
+Maharashtra,MH,Ahmednagar, Tier-3 
+Maharashtra,MH,Akola, Tier-3 
+Maharashtra,MH,Amravati, Tier-2 
+Maharashtra,MH,Aurangabad, Tier-2 
+Maharashtra,MH,Beed, Tier-3 
+Maharashtra,MH,Buldhana, Tier-3 
+Maharashtra,MH,Chandrapur, Tier-3 
+Maharashtra,MH,Dhule, Tier-3 
+Maharashtra,MH,Gondia, Tier-3 
+Maharashtra,MH,Hingoli, Tier-3 
+Maharashtra,MH,Jalgaon, Tier-3 
+Maharashtra,MH,Jalna, Tier-3 
+Maharashtra,MH,Kolhapur, Tier-2 
+Maharashtra,MH,Latur, Tier-3 
+Maharashtra,MH,Mumbai, Tier-1 
+Maharashtra,MH,Nagpur, Tier-2 
+Maharashtra,MH,Nanded, Tier-2 
+Maharashtra,MH,Nandurbar, Tier-3 
+Maharashtra,MH,Nashik, Tier-2 
+Maharashtra,MH,Osmanabad, Tier-3 
+Maharashtra,MH,Other State, Tier-3 
+Maharashtra,MH,Palghar, Tier-2 
+Maharashtra,MH,Parbhani, Tier-3 
+Maharashtra,MH,Pune, Tier-1 
+Maharashtra,MH,Raigad, Tier-3 
+Maharashtra,MH,Ratnagiri, Tier-3 
+Maharashtra,MH,Sangli, Tier-2 
+Maharashtra,MH,Satara, Tier-3 
+Maharashtra,MH,Sindhudurg, Tier-3 
+Maharashtra,MH,Solapur, Tier-2 
+Maharashtra,MH,Thane, Tier-2 
+Maharashtra,MH,Washim, Tier-3 
+Maharashtra,MH,Yavatmal, Tier-3 
+Meghalaya,ML,East Khasi Hills, Tier-3 
+Manipur,MN,Imphal East, Tier-3 
+Manipur,MN,Imphal West, Tier-3 
+Madhya Pradesh,MP,Agar Malwa, Tier-3 
+Madhya Pradesh,MP,Alirajpur, Tier-3 
+Madhya Pradesh,MP,Barwani, Tier-3 
+Madhya Pradesh,MP,Betul, Tier-3 
+Madhya Pradesh,MP,Bhopal, Tier-2 
+Madhya Pradesh,MP,Chhindwara, Tier-3 
+Madhya Pradesh,MP,Dewas, Tier-3 
+Madhya Pradesh,MP,Dhar, Tier-3 
+Madhya Pradesh,MP,Dindori, Tier-3 
+Madhya Pradesh,MP,Gwalior, Tier-2 
+Madhya Pradesh,MP,Hoshangabad, Tier-3 
+Madhya Pradesh,MP,Indore, Tier-2 
+Madhya Pradesh,MP,Jabalpur, Tier-2 
+Madhya Pradesh,MP,Khandwa, Tier-3 
+Madhya Pradesh,MP,Khargone, Tier-3 
+Madhya Pradesh,MP,Mandsaur, Tier-3 
+Madhya Pradesh,MP,Morena, Tier-3 
+Madhya Pradesh,MP,Other Region, Tier-3 
+Madhya Pradesh,MP,Raisen, Tier-3 
+Madhya Pradesh,MP,Ratlam, Tier-3 
+Madhya Pradesh,MP,Sagar, Tier-3 
+Madhya Pradesh,MP,Shajapur, Tier-3 
+Madhya Pradesh,MP,Sheopur, Tier-3 
+Madhya Pradesh,MP,Shivpuri, Tier-3 
+Madhya Pradesh,MP,Tikamgarh, Tier-3 
+Madhya Pradesh,MP,Ujjain, Tier-2 
+Madhya Pradesh,MP,Vidisha, Tier-3 
+Mizoram,MZ,Aizawl, Tier-3 
+Odisha,OR,Balasore, Tier-3 
+Odisha,OR,Bhadrak, Tier-3 
+Odisha,OR,Cuttack, Tier-2 
+Odisha,OR,Dhenkanal, Tier-3 
+Odisha,OR,Jajpur, Tier-3 
+Odisha,OR,Kalahandi, Tier-3 
+Odisha,OR,Kendrapara, Tier-3 
+Odisha,OR,Khordha, Tier-2 
+Odisha,OR,Puri, Tier-3 
+Odisha,OR,Sundargarh, Tier-2 
+Punjab,PB,Amritsar, Tier-2 
+Punjab,PB,Barnala, Tier-3 
+Punjab,PB,Faridkot, Tier-3 
+Punjab,PB,Fatehgarh Sahib, Tier-3 
+Punjab,PB,Ferozepur, Tier-3 
+Punjab,PB,Gurdaspur, Tier-3 
+Punjab,PB,Hoshiarpur, Tier-3 
+Punjab,PB,Jalandhar, Tier-2 
+Punjab,PB,Kapurthala, Tier-3 
+Punjab,PB,Ludhiana, Tier-2 
+Punjab,PB,Mansa, Tier-3 
+Punjab,PB,Moga, Tier-3 
+Punjab,PB,Pathankot, Tier-3 
+Punjab,PB,Patiala, Tier-3 
+Punjab,PB,Rupnagar, Tier-3 
+Punjab,PB,S.A.S. Nagar, Tier-3 
+Punjab,PB,Sangrur, Tier-3 
+Punjab,PB,Shahid Bhagat Singh Nagar, Tier-3 
+Punjab,PB,Sri Muktsar Sahib, Tier-3 
+Puducherry,PY,Mahe, Tier-3 
+Puducherry,PY,Puducherry, Tier-2 
+Rajasthan,RJ,Ajmer, Tier-2 
+Rajasthan,RJ,Alwar, Tier-3 
+Rajasthan,RJ,Banswara, Tier-3 
+Rajasthan,RJ,Barmer, Tier-3 
+Rajasthan,RJ,Bharatpur, Tier-3 
+Rajasthan,RJ,Bhilwara, Tier-3 
+Rajasthan,RJ,Bikaner, Tier-2 
+Rajasthan,RJ,Chittorgarh, Tier-3 
+Rajasthan,RJ,Churu, Tier-3 
+Rajasthan,RJ,Dausa, Tier-3 
+Rajasthan,RJ,Dholpur, Tier-3 
+Rajasthan,RJ,Dungarpur, Tier-3 
+Rajasthan,RJ,Evacuees, Tier-3 
+Rajasthan,RJ,Hanumangarh, Tier-3 
+Rajasthan,RJ,Italians, Tier-3 
+Rajasthan,RJ,Jaipur, Tier-2 
+Rajasthan,RJ,Jaisalmer, Tier-3 
+Rajasthan,RJ,Jhalawar, Tier-3 
+Rajasthan,RJ,Jhunjhunu, Tier-3 
+Rajasthan,RJ,Jodhpur, Tier-2 
+Rajasthan,RJ,Karauli, Tier-3 
+Rajasthan,RJ,Kota, Tier-3 
+Rajasthan,RJ,Nagaur, Tier-3 
+Rajasthan,RJ,Other State, Tier-3 
+Rajasthan,RJ,Pali, Tier-3 
+Rajasthan,RJ,Pratapgarh, Tier-3 
+Rajasthan,RJ,Rajsamand, Tier-3 
+Rajasthan,RJ,Sawai Madhopur, Tier-3 
+Rajasthan,RJ,Sikar, Tier-3 
+Rajasthan,RJ,Tonk, Tier-3 
+Rajasthan,RJ,Udaipur, Tier-3 
+Telangana,TG,Unknown, Tier-1 
+Tamil Nadu,TN,Ariyalur, Tier-3 
+Tamil Nadu,TN,Chengalpattu, Tier-3 
+Tamil Nadu,TN,Chennai, Tier-1 
+Tamil Nadu,TN,Coimbatore, Tier-2 
+Tamil Nadu,TN,Cuddalore, Tier-3 
+Tamil Nadu,TN,Dharmapuri, Tier-3 
+Tamil Nadu,TN,Dindigul, Tier-3 
+Tamil Nadu,TN,Erode, Tier-2 
+Tamil Nadu,TN,Kallakurichi, Tier-3 
+Tamil Nadu,TN,Kancheepuram, Tier-3 
+Tamil Nadu,TN,Kanyakumari, Tier-3 
+Tamil Nadu,TN,Karur, Tier-3 
+Tamil Nadu,TN,Madurai, Tier-2 
+Tamil Nadu,TN,Nagapattinam, Tier-3 
+Tamil Nadu,TN,Namakkal, Tier-3 
+Tamil Nadu,TN,Nilgiris, Tier-3 
+Tamil Nadu,TN,Perambalur, Tier-3 
+Tamil Nadu,TN,Pudukkottai, Tier-3 
+Tamil Nadu,TN,Ramanathapuram, Tier-3 
+Tamil Nadu,TN,Ranipet, Tier-3 
+Tamil Nadu,TN,Salem, Tier-2 
+Tamil Nadu,TN,Sivaganga, Tier-3 
+Tamil Nadu,TN,Tenkasi, Tier-3 
+Tamil Nadu,TN,Thanjavur, Tier-3 
+Tamil Nadu,TN,Theni, Tier-3 
+Tamil Nadu,TN,Thiruvallur, Tier-3 
+Tamil Nadu,TN,Thiruvarur, Tier-3 
+Tamil Nadu,TN,Thoothukkudi, Tier-3 
+Tamil Nadu,TN,Tiruchirappalli, Tier-2 
+Tamil Nadu,TN,Tirunelveli, Tier-3 
+Tamil Nadu,TN,Tirupathur, Tier-3 
+Tamil Nadu,TN,Tiruppur, Tier-2 
+Tamil Nadu,TN,Tiruvannamalai, Tier-3 
+Tamil Nadu,TN,Unknown, Tier-3 
+Tamil Nadu,TN,Vellore, Tier-2 
+Tamil Nadu,TN,Viluppuram, Tier-3 
+Tamil Nadu,TN,Virudhunagar, Tier-3 
+Tripura,TR,Gomati, Tier-3 
+Tripura,TR,North Tripura, Tier-3 
+Uttar Pradesh,UP,Agra, Tier-2 
+Uttar Pradesh,UP,Aligarh, Tier-2 
+Uttar Pradesh,UP,Amroha, Tier-3 
+Uttar Pradesh,UP,Auraiya, Tier-3 
+Uttar Pradesh,UP,Ayodhya, Tier-3 
+Uttar Pradesh,UP,Azamgarh, Tier-3 
+Uttar Pradesh,UP,Baghpat, Tier-3 
+Uttar Pradesh,UP,Bahraich, Tier-3 
+Uttar Pradesh,UP,Balrampur, Tier-3 
+Uttar Pradesh,UP,Banda, Tier-3 
+Uttar Pradesh,UP,Barabanki, Tier-3 
+Uttar Pradesh,UP,Bareilly, Tier-2 
+Uttar Pradesh,UP,Basti, Tier-3 
+Uttar Pradesh,UP,Bhadohi, Tier-3 
+Uttar Pradesh,UP,Bijnor, Tier-3 
+Uttar Pradesh,UP,Budaun, Tier-3 
+Uttar Pradesh,UP,Bulandshahr, Tier-3 
+Uttar Pradesh,UP,Etah, Tier-3 
+Uttar Pradesh,UP,Etawah, Tier-3 
+Uttar Pradesh,UP,Firozabad, Tier-2 
+Uttar Pradesh,UP,Gautam Buddha Nagar, Tier-2 
+Uttar Pradesh,UP,Ghaziabad, Tier-2 
+Uttar Pradesh,UP,Ghazipur, Tier-3 
+Uttar Pradesh,UP,Gonda, Tier-3 
+Uttar Pradesh,UP,Hapur, Tier-3 
+Uttar Pradesh,UP,Hardoi, Tier-3 
+Uttar Pradesh,UP,Hathras, Tier-3 
+Uttar Pradesh,UP,Jalaun, Tier-3 
+Uttar Pradesh,UP,Jaunpur, Tier-3 
+Uttar Pradesh,UP,Kannauj, Tier-3 
+Uttar Pradesh,UP,Kanpur Nagar, Tier-2 
+Uttar Pradesh,UP,Kasganj, Tier-3 
+Uttar Pradesh,UP,Kaushambi, Tier-3 
+Uttar Pradesh,UP,Lakhimpur Kheri, Tier-3 
+Uttar Pradesh,UP,Lucknow, Tier-2 
+Uttar Pradesh,UP,Maharajganj, Tier-3 
+Uttar Pradesh,UP,Mainpuri, Tier-3 
+Uttar Pradesh,UP,Mathura, Tier-2 
+Uttar Pradesh,UP,Mau, Tier-3 
+Uttar Pradesh,UP,Meerut, Tier-2 
+Uttar Pradesh,UP,Mirzapur, Tier-3 
+Uttar Pradesh,UP,Moradabad, Tier-2 
+Uttar Pradesh,UP,Muzaffarnagar, Tier-3 
+Uttar Pradesh,UP,Pilibhit, Tier-3 
+Uttar Pradesh,UP,Pratapgarh, Tier-3 
+Uttar Pradesh,UP,Prayagraj, Tier-3 
+Uttar Pradesh,UP,Rae Bareli, Tier-3 
+Uttar Pradesh,UP,Rampur, Tier-3 
+Uttar Pradesh,UP,Saharanpur, Tier-3 
+Uttar Pradesh,UP,Sambhal, Tier-3 
+Uttar Pradesh,UP,Sant Kabir Nagar, Tier-3 
+Uttar Pradesh,UP,Shahjahanpur, Tier-3 
+Uttar Pradesh,UP,Shamli, Tier-3 
+Uttar Pradesh,UP,Shrawasti, Tier-3 
+Uttar Pradesh,UP,Sitapur, Tier-3 
+Uttar Pradesh,UP,Sultanpur, Tier-3 
+Uttar Pradesh,UP,Unnao, Tier-3 
+Uttar Pradesh,UP,Varanasi, Tier-2 
+Uttarakhand,UT,Almora, Tier-3 
+Uttarakhand,UT,Dehradun, Tier-2 
+Uttarakhand,UT,Haridwar, Tier-3 
+Uttarakhand,UT,Nainital, Tier-3 
+Uttarakhand,UT,Pauri Garhwal, Tier-3 
+Uttarakhand,UT,Udham Singh Nagar, Tier-3 
+West Bengal,WB,Darjeeling, Tier-2 
+West Bengal,WB,Hooghly, Tier-3 
+West Bengal,WB,Howrah, Tier-3 
+West Bengal,WB,Jalpaiguri, Tier-3 
+West Bengal,WB,Kalimpong, Tier-3 
+West Bengal,WB,Kolkata, Tier-1 
+West Bengal,WB,Murshidabad, Tier-3 
+West Bengal,WB,Nadia, Tier-3 
+West Bengal,WB,North 24 Parganas, Tier-3 
+West Bengal,WB,Paschim Bardhaman, Tier-3 
+West Bengal,WB,Purba Bardhaman, Tier-3 
+West Bengal,WB,Purba Medinipur, Tier-3 
+West Bengal,WB,South 24 Parganas, Tier-3 
+West Bengal,WB,Unknown, Tier-3 
+Bihar,BR,Darbhanga, Tier-3 
+Bihar,BR,Madhubani, Tier-3 
+Bihar,BR,Purnia, Tier-3 
+Haryana,HR,Jhajjar, Tier-3 
+Haryana,HR,Unknown, Tier-3 
+Jharkhand,JH,Jamtara, Tier-3 
+Jammu and Kashmir,JK,Reasi, Tier-3 
+Maharashtra,MH,Bhandara, Tier-3 
+Madhya Pradesh,MP,Harda, Tier-3 
+Odisha,OR,Koraput, Tier-3 
+Punjab,PB,Tarn Taran, Tier-3 
+Uttar Pradesh,UP,Gorakhpur, Tier-2 
+Uttar Pradesh,UP,Jhansi, Tier-2 
+Assam,AS,Bongaigaon, Tier-3 
+Bihar,BR,Araria, Tier-3 
+Bihar,BR,Sheikhpura, Tier-3 
+Bihar,BR,Sitamarhi, Tier-3 
+Chhattisgarh,CT,Surajpur, Tier-3 
+Madhya Pradesh,MP,Ashoknagar, Tier-3 
+Madhya Pradesh,MP,Burhanpur, Tier-3 
+Madhya Pradesh,MP,Rewa, Tier-3 
+Madhya Pradesh,MP,Shahdol, Tier-3 
+Bihar,BR,West Champaran, Tier-3 
+Odisha,OR,Deogarh, Tier-3 
+Odisha,OR,Jharsuguda, Tier-3 
+Odisha,OR,Kendujhar, Tier-3 
+Punjab,PB,Bathinda, Tier-3 
+Rajasthan,RJ,Baran, Tier-3 
+Uttar Pradesh,UP,Kanpur Dehat, Tier-3 
+Bihar,BR,Katihar, Tier-3 
+Jharkhand,JH,Godda, Tier-3 
+Madhya Pradesh,MP,Anuppur, Tier-3 
+Odisha,OR,Balangir, Tier-3 
+Punjab,PB,Fazilka, Tier-3 
+Uttar Pradesh,UP,Deoria, Tier-3 
+Uttar Pradesh,UP,Siddharthnagar, Tier-3 
+Madhya Pradesh,MP,Katni, Tier-3 
+Odisha,OR,Ganjam, Tier-3 
+Tripura,TR,Dhalai, Tier-3 
+Uttar Pradesh,UP,Mahoba, Tier-3 
+Bihar,BR,Sheohar, Tier-3 
+Chhattisgarh,CT,Kabeerdham, Tier-3 
+Gujarat,GJ,Devbhumi Dwarka, Tier-3 
+Madhya Pradesh,MP,Niwari, Tier-3 
+Madhya Pradesh,MP,Panna, Tier-3 
+West Bengal,WB,Birbhum, Tier-3 
+West Bengal,WB,Malda, Tier-3 
+West Bengal,WB,Other State, Tier-3 
+West Bengal,WB,Paschim Medinipur, Tier-3 
+Bihar,BR,Samastipur, Tier-3 
+Himachal Pradesh,HP,Mandi, Tier-3 
+Karnataka,KA,Haveri, Tier-3 
+Madhya Pradesh,MP,Satna, Tier-3 
+Andhra Pradesh,AP,Other State, Tier-3 
+Assam,AS,Kokrajhar, Tier-3 
+Dadra and Nagar Haveli and Daman and Diu,DN,Dadra and Nagar Haveli, Tier-3 
+Gujarat,GJ,Junagadh, Tier-3 
+Jharkhand,JH,Dumka, Tier-3 
+Tamil Nadu,TN,Krishnagiri, Tier-3 
+Uttar Pradesh,UP,Amethi, Tier-3 
+Uttar Pradesh,UP,Kushinagar, Tier-3 
+Madhya Pradesh,MP,Neemuch, Tier-3 
+Odisha,OR,Jagatsinghpur, Tier-3 
+Odisha,OR,Mayurbhanj, Tier-3 
+Rajasthan,RJ,BSF Camp, Tier-3 
+Rajasthan,RJ,Jalore, Tier-3 
+Uttar Pradesh,UP,Chitrakoot, Tier-3 
+Andhra Pradesh,AP,Vizianagaram, Tier-3 
+Bihar,BR,Kishanganj, Tier-3 
+Gujarat,GJ,Other State, Tier-3 
+Himachal Pradesh,HP,Shimla, Tier-2 
+Haryana,HR,Mahendragarh, Tier-3 
+Madhya Pradesh,MP,Jhabua, Tier-3 
+Rajasthan,RJ,Sirohi, Tier-3 
+Bihar,BR,Khagaria, Tier-3 
+Bihar,BR,Saharsa, Tier-3 
+Bihar,BR,Supaul, Tier-3 
+Madhya Pradesh,MP,Guna, Tier-3 
+Madhya Pradesh,MP,Sehore, Tier-3 
+Uttar Pradesh,UP,Fatehpur, Tier-3 
+Assam,AS,Jorhat, Tier-3 
+Bihar,BR,Muzaffarpur, Tier-3 
+Haryana,HR,Rewari, Tier-3 
+Maharashtra,MH,Unknown, Tier-3 
+Madhya Pradesh,MP,Bhind, Tier-3 
+Odisha,OR,Angul, Tier-3 
+Odisha,OR,Nayagarh, Tier-3 
+Uttar Pradesh,UP,Farrukhabad, Tier-3 
+Uttar Pradesh,UP,Hamirpur, Tier-2 
+Uttar Pradesh,UP,Lalitpur, Tier-3 
+Uttarakhand,UT,Uttarkashi, Tier-3 
+Himachal Pradesh,HP,Bilaspur, Tier-2 
+Karnataka,KA,Shivamogga, Tier-3 
+Odisha,OR,Boudh, Tier-3 
+Puducherry,PY,Karaikal, Tier-3 
+Uttar Pradesh,UP,Sonbhadra, Tier-3 
+West Bengal,WB,Jhargram, Tier-3 
+West Bengal,WB,Uttar Dinajpur, Tier-3 
+Maharashtra,MH,Wardha, Tier-3 
+Madhya Pradesh,MP,Mandla, Tier-3 
+Madhya Pradesh,MP,Seoni, Tier-3 
+Uttar Pradesh,UP,Ambedkar Nagar, Tier-3 
+Uttar Pradesh,UP,Ballia, Tier-3 
+Bihar,BR,Jamui, Tier-3 
+Jharkhand,JH,East Singhbhum, Tier-2 
+Karnataka,KA,Hassan, Tier-3 
+Karnataka,KA,Kolar, Tier-3 
+Karnataka,KA,Yadgir, Tier-3 
+Madhya Pradesh,MP,Sidhi, Tier-3 
+Tamil Nadu,TN,Airport Quarantine, Tier-3 
+Gujarat,GJ,Amreli, Tier-3 
+Jharkhand,JH,Latehar, Tier-3 
+Uttar Pradesh,UP,Chandauli, Tier-3 
+Chhattisgarh,CT,Balod, Tier-3 
+Chhattisgarh,CT,Janjgir Champa, Tier-3 
+Chhattisgarh,CT,Koriya, Tier-3 
+Madhya Pradesh,MP,Damoh, Tier-3 
+Madhya Pradesh,MP,Datia, Tier-3 
+Assam,AS,Sonitpur, Tier-3 
+Manipur,MN,Churachandpur, Tier-3 
+Madhya Pradesh,MP,Umaria, Tier-3 
+Tamil Nadu,TN,Other State, Tier-3 
+Tripura,TR,Khowai, Tier-3 
+Assam,AS,Sivasagar, Tier-3 
+Assam,AS,Unknown, Tier-3 
+Chhattisgarh,CT,Baloda Bazar, Tier-3 
+Chhattisgarh,CT,Gariaband, Tier-3 
+Jharkhand,JH,Lohardaga, Tier-3 
+Jharkhand,JH,Ramgarh, Tier-3 
+Jammu and Kashmir,JK,Punch, Tier-3 
+Odisha,OR,Gajapati, Tier-3 
+Odisha,OR,Kandhamal, Tier-3 
+Odisha,OR,Malkangiri, Tier-3 
+Odisha,OR,Nuapada, Tier-3 
+Odisha,OR,Rayagada, Tier-3 
+Odisha,OR,Sambalpur, Tier-3 
+Tamil Nadu,TN,Railway Quarantine, Tier-3 
+West Bengal,WB,Dakshin Dinajpur, Tier-3 
+Chhattisgarh,CT,Raigarh, Tier-3 
+Chhattisgarh,CT,Surguja, Tier-3 
+Jharkhand,JH,West Singhbhum, Tier-3 
+Jammu and Kashmir,JK,Doda, Tier-3 
+Karnataka,KA,Koppal, Tier-3 
+Karnataka,KA,Raichur, Tier-3 
+Andhra Pradesh,AP,Unknown, Tier-3 
+Assam,AS,Biswanath, Tier-3 
+Assam,AS,Hojai, Tier-3 
+Assam,AS,Nagaon, Tier-3 
+Chhattisgarh,CT,Balrampur, Tier-3 
+Chhattisgarh,CT,Bametara, Tier-3 
+Chhattisgarh,CT,Bastar, Tier-3 
+Chhattisgarh,CT,Bijapur, Tier-2 
+Chhattisgarh,CT,Dakshin Bastar Dantewada, Tier-3 
+Chhattisgarh,CT,Dhamtari, Tier-3 
+Chhattisgarh,CT,Jashpur, Tier-3 
+Chhattisgarh,CT,Kondagaon, Tier-3 
+Chhattisgarh,CT,Mahasamund, Tier-3 
+Chhattisgarh,CT,Mungeli, Tier-3 
+Chhattisgarh,CT,Narayanpur, Tier-3 
+Chhattisgarh,CT,Sukma, Tier-3 
+Chhattisgarh,CT,Uttar Bastar Kanker, Tier-3 
+Jharkhand,JH,Gumla, Tier-3 
+Jharkhand,JH,Saraikela-Kharsawan, Tier-3 
+Karnataka,KA,Chikkamagaluru, Tier-3 
+Maharashtra,MH,Gadchiroli, Tier-3 
+Madhya Pradesh,MP,Rajgarh, Tier-3 
+Madhya Pradesh,MP,Singrauli, Tier-3 
+Nagaland,NL,Dimapur, Tier-3 
+Nagaland,NL,Kohima, Tier-3 
+Nagaland,NL,Mokokchung, Tier-3 
+Nagaland,NL,Mon, Tier-3 
+Nagaland,NL,Peren, Tier-3 
+Nagaland,NL,Phek, Tier-3 
+Nagaland,NL,Tuensang, Tier-3 
+Nagaland,NL,Wokha, Tier-3 
+Tripura,TR,Sipahijala, Tier-3 
+Tripura,TR,South Tripura, Tier-3 
+Tripura,TR,Unknown, Tier-3 
+Tripura,TR,Unokoti, Tier-3 
+Tripura,TR,West Tripura, Tier-3 
+Uttarakhand,UT,Bageshwar, Tier-3 
+Uttarakhand,UT,Chamoli, Tier-3 
+Uttarakhand,UT,Champawat, Tier-3 
+Uttarakhand,UT,Pithoragarh, Tier-3 
+Uttarakhand,UT,Rudraprayag, Tier-3 
+Uttarakhand,UT,Tehri Garhwal, Tier-3 
+Bihar,BR,Unknown, Tier-3 
+Chhattisgarh,CT,Unknown, Tier-3 
+Himachal Pradesh,HP,Kullu, Tier-3 
+Jharkhand,JH,Chatra, Tier-3 
+Meghalaya,ML,West Garo Hills, Tier-3 
+Madhya Pradesh,MP,Chhatarpur, Tier-3 
+Rajasthan,RJ,Ganganagar, Tier-3 
+Assam,AS,Darrang, Tier-3 
+Assam,AS,Dibrugarh, Tier-3 
+Assam,AS,Udalguri, Tier-3 
+Assam,AS,West Karbi Anglong, Tier-3 
+Chhattisgarh,CT,Gaurela Pendra Marwahi, Tier-3 
+Madhya Pradesh,MP,Balaghat, Tier-3 
+Assam,AS,Tinsukia, Tier-3 
+Assam,AS,Barpeta, Tier-3 
+Assam,AS,Chirang, Tier-3 
+Assam,AS,Dima Hasao, Tier-3 
+Manipur,MN,Unknown, Tier-3 
+Odisha,OR,Nabarangapur, Tier-3 
+Sikkim,SK,South Sikkim, Tier-3 
+West Bengal,WB,Bankura, Tier-3 
+Arunachal Pradesh,AR,Papum Pare, Tier-3 
+Haryana,HR,Foreign Evacuees, Tier-3 
+Madhya Pradesh,MP,Narsinghpur, Tier-3 
+Uttarakhand,UT,Unknown, Tier-3 
+Andhra Pradesh,AP,Foreign Evacuees, Tier-3 
+Assam,AS,Dhemaji, Tier-3 
+Goa,GA,Unknown, Tier-3 
+Jharkhand,JH,Unknown, Tier-3 
+Karnataka,KA,Ramanagara, Tier-3 
+Meghalaya,ML,North Garo Hills, Tier-3 
+Manipur,MN,Noney, Tier-3 
+Odisha,OR,Bargarh, Tier-3 
+Puducherry,PY,Unknown, Tier-3 
+Assam,AS,Karbi Anglong, Tier-3 
+Jharkhand,JH,Khunti, Tier-3 
+Jharkhand,JH,Pakur, Tier-3 
+Nagaland,NL,Kiphire, Tier-3 
+Odisha,OR,Subarnapur, Tier-3 
+Assam,AS,Charaideo, Tier-3 
+Rajasthan,RJ,Bundi, Tier-3 
+West Bengal,WB,Purulia, Tier-3 
+Arunachal Pradesh,AR,Changlang, Tier-3 
+Meghalaya,ML,South West Garo Hills, Tier-3 
+Meghalaya,ML,West Khasi Hills, Tier-3 
+Manipur,MN,Kamjong, Tier-3 
+West Bengal,WB,Alipurduar, Tier-3 
+Jharkhand,JH,Sahibganj, Tier-3 
+West Bengal,WB,Cooch Behar, Tier-3 
+Assam,AS,Baksa, Tier-3 
+Manipur,MN,Chandel, Tier-3 
+Manipur,MN,Thoubal, Tier-3 
+Manipur,MN,Ukhrul, Tier-3 
+Arunachal Pradesh,AR,Anjaw, Tier-3 
+Arunachal Pradesh,AR,Capital Complex, Tier-3 
+Arunachal Pradesh,AR,Dibang Valley, Tier-3 
+Arunachal Pradesh,AR,East Kameng, Tier-3 
+Arunachal Pradesh,AR,East Siang, Tier-3 
+Arunachal Pradesh,AR,Kamle, Tier-3 
+Arunachal Pradesh,AR,Kra-Daadi, Tier-3 
+Arunachal Pradesh,AR,Kurung Kumey, Tier-3 
+Arunachal Pradesh,AR,Lepa Rada, Tier-3 
+Arunachal Pradesh,AR,Longding, Tier-3 
+Arunachal Pradesh,AR,Lower Dibang Valley, Tier-3 
+Arunachal Pradesh,AR,Lower Siang, Tier-3 
+Arunachal Pradesh,AR,Lower Subansiri, Tier-3 
+Arunachal Pradesh,AR,Namsai, Tier-3 
+Arunachal Pradesh,AR,Pakke Kessang, Tier-3 
+Arunachal Pradesh,AR,Shi Yomi, Tier-3 
+Arunachal Pradesh,AR,Siang, Tier-3 
+Arunachal Pradesh,AR,Tawang, Tier-3 
+Arunachal Pradesh,AR,Tirap, Tier-3 
+Arunachal Pradesh,AR,Unknown, Tier-3 
+Arunachal Pradesh,AR,Upper Siang, Tier-3 
+Arunachal Pradesh,AR,Upper Subansiri, Tier-3 
+Arunachal Pradesh,AR,West Kameng, Tier-3 
+Arunachal Pradesh,AR,West Siang, Tier-3 
+Karnataka,KA,Chamarajanagara, Tier-3 
+Manipur,MN,Bishnupur, Tier-3 
+Manipur,MN,Senapati, Tier-3 
+Himachal Pradesh,HP,Kinnaur, Tier-3 
+Himachal Pradesh,HP,Unknown, Tier-3 
+Meghalaya,ML,West Jaintia Hills, Tier-3 
+Manipur,MN,Kakching, Tier-3 
+Manipur,MN,Tamenglong, Tier-3 
+Manipur,MN,Tengnoupal, Tier-3 
+Nagaland,NL,Unknown, Tier-3 
+Sikkim,SK,East Sikkim, Tier-3 
+Manipur,MN,Kangpokpi, Tier-3 
+Mizoram,MZ,Lunglei, Tier-3 
+Mizoram,MZ,Mamit, Tier-3 
+Mizoram,MZ,Saitual, Tier-3 
+Assam,AS,Airport Quarantine, Tier-3 
+Manipur,MN,Pherzawl, Tier-3 
+Sikkim,SK,West Sikkim, Tier-3 
+Assam,AS,Majuli, Tier-3 
+Mizoram,MZ,Lawngtlai, Tier-3 
+Chhattisgarh,CT,Other State, Tier-3 
+Mizoram,MZ,Champhai, Tier-3 
+Mizoram,MZ,Khawzawl, Tier-3 
+Mizoram,MZ,Saiha, Tier-3 
+Nagaland,NL,Zunheboto, Tier-3 
+Dadra and Nagar Haveli and Daman and Diu,DN,Daman, Tier-3 
+Meghalaya,ML,Ribhoi, Tier-3 
+Meghalaya,ML,Unknown, Tier-3 
+Mizoram,MZ,Kolasib, Tier-3 
+Odisha,OR,Others, Tier-3 
+Sikkim,SK,Unknown, Tier-3 
+Goa,GA,Other State, Tier-3 
+Mizoram,MZ,Serchhip, Tier-3 
+Dadra and Nagar Haveli and Daman and Diu,DN,Diu, Tier-3 
+Nagaland,NL,Others, Tier-3 
+Manipur,MN,Jiribam, Tier-3 
+Puducherry,PY,Yanam, Tier-3 
+Nagaland,NL,Longleng, Tier-3 
+Sikkim,SK,North Sikkim, Tier-3 
+Himachal Pradesh,HP,Lahaul and Spiti, Tier-3 
+Meghalaya,ML,East Jaintia Hills, Tier-3 
+Madhya Pradesh,MP,Unknown, Tier-3 
+Bihar,BR,Other State, Tier-3 
+Mizoram,MZ,Unknown, Tier-3 
+Meghalaya,ML,East Garo Hills, Tier-3 
+Meghalaya,ML,South Garo Hills, Tier-3 
+Manipur,MN,Other State, Tier-3 
